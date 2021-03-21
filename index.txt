@@ -1,0 +1,7 @@
+ES6 or Modern JS:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+React:
+https://softchris.github.io/books/react/
+
+
